@@ -1,5 +1,4 @@
 ### Hi there 👋
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Magdy</h1>

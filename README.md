@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ahmed Magdy 👋
 
 # 💫 About Me:
 🌱 I’m currently learning Backend Development<br>💬 Ask me about  Django , Web design<br>⚡ Fun fact I have a passion for video games

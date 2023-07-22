@@ -1,4 +1,4 @@
-### Hi there, I'm Ahmed Magdy 👋
+### Hi there👋
 
 <h1 align="center">Hi 👋, I'm Ahmed Magdy</h1>
 <h3 align="center">BackEnd Developer || Django from Egypt</h3>

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Django , Web design**
+- 💬 Ask me about **Django , RestAPI , CBV , Web design**
 
 - 📫 How to reach me **alshwwhy212@gmail.com**
 

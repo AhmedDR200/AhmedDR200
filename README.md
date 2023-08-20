@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I have a passion for video games**
   
-- 🎖️ <a href="https://ahmeddr200.github.io/My_Portfolio/">My Portfolio</a>
+- 🎖️ <a href="https://ahmeddr200.github.io/My_Portfolio/" target="_blank">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

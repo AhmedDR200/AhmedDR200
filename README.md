@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently have experience in Backend Development<br><br>💬 Ask me about Django , RestAPI , ORM<br><br>📫 How to reach me alshwwhy212@gmail.com<br><br>⚡ Fun fact I have a passion for video games<br><br>- 🎖️ <a href="https://ahmeddr200.github.io/My_Portfolio/" target="_blank">My Portfolio</a><br><br>
+🌱 I’m currently have experience in Backend Development<br><br>💬 Ask me about Django , RestAPI , ORM<br><br>📫 How to reach me alshwwhy212@gmail.com<br><br>⚡ Fun fact I have a passion for video games<br><br> 🎖️ <a href="https://ahmeddr200.github.io/My_Portfolio/" target="_blank">My Portfolio</a><br><br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedDr200&theme=dracula&no-frame=false&no-bg=true&margin-w=4)

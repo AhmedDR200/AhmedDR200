@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently have experience in Backend Development<br><br>💬 Ask me about Django , RestAPI , ORM<br><br>📫 How to reach me alshwwhy212@gmail.com<br><br>⚡ Fun fact I have a passion for video games<br><br>- 🎖️ <a href="https://ahmeddr200.github.io/My_Portfolio/" target="_blank">My Portfolio</a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AhmedDr200&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.alshwehy.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/magdy4_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmagdy41) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ahmed_magdy41) 
@@ -12,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedDr200&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDr200&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AhmedDr200&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)

@@ -22,8 +22,6 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AhmedDr200&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 
   

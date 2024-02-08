@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=2E3D4E&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+at+(SCU)%3BBackend+Developer+with+NodeJS%3B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=6C757D&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+at+ MU%3BBackend+Engineer+with+NodeJS%3B" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
-  <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #1A1A1A;">Your Additional Text or Description</span>
+  <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
 </p>
 
 

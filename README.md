@@ -4,6 +4,33 @@
 
 🌱 I’m currently have experience in Backend Development<br><br>💬 Ask me about Django , Node js , Express js<br><br>📫 How to reach me alshwwhy212@gmail.com<br><br>⚡ Fun fact I have a passion for video games !<br><br> 🎖️ <a href="https://ahmeddr200.github.io/My_Portfolio/" target="_blank">My Portfolio</a><br><br>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+at (SCU);Backend+Developer+with+NodeJS;" alt="Typing SVG" /></a></p>
+
+```python
+const express = require('express');
+const bodyParser = require('body-parser');
+const app = express();
+
+app.use(bodyParser.json());
+app.post('/introduce-yourself', (req, res) => {
+  const name = req.body.name || 'Ali Mohamed';
+  const occupation = req.body.occupation || 'Software Developer';
+  const interests = req.body.interests || ['JavaScript', 'Nodejs', 'Rest Framework'];
+
+  const introduction = `Hello, my name is ${name}. I am a ${occupation} and my interests include ${interests.join(', ')}.`;
+
+  res.json({ introduction });
+});
+```
+- 🌱 I’m currently working on **Amazing Tool** 🙄
+  <!--learning   **MongoDb**-->
+
+- 📫 How to reach me **alinour30211@gmail.com**
+  
+-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=alin00r&label=Profile%20views&color=0e75b6&style=flat" alt="alin00r" /> </p>
+<p align="center">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedDr200&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 

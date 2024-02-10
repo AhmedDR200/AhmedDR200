@@ -4,14 +4,17 @@
 
 🌱 I’m currently have experience in Backend Development<br><br>💬 Ask me about Django , Node js , Express js<br><br>📫 How to reach me alshwwhy212@gmail.com<br><br>⚡ Fun fact I have a passion for video games !<br><br> 🎖️ <a href="https://ahmeddr200.github.io/My_Portfolio/" target="_blank">My Portfolio</a><br><br>
 
+```markdown
+```
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student+at+ MU%3BBackend+Engineer+with+NodeJS%3B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student+at+MU%3BBackend+Engineer+with+NodeJS%3B" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
   <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
 </p>
+```
 
 
 ## 🏆 GitHub Trophies

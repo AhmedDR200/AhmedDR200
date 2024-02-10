@@ -13,7 +13,6 @@
 <p align="center">
   <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
 </p>
-```
 
 
 ## 🏆 GitHub Trophies

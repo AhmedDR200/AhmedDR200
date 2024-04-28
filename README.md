@@ -28,7 +28,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDr200&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+<img src="https://raw.githubusercontent.com/AhmedDR200/AhmedDR200/output/snake.svg" alt="Snake animation" />
 
 
   

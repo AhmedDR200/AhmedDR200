@@ -2,7 +2,7 @@
 
 # 🚀 BackEnd Engineer || Node.js - Express.js
 
-🌱 I’m currently a Software Engineering Student at MU with experience in Backend Development.<br><br>💬 Feel free to ask me about anything related to Node.js or Express.js.<br><br>📫 You can reach me at alshwwhy212@gmail.com<br><br>⚡ Fun fact: I have a passion for video games!<br><br> 🎖️ [My Portfolio](https://magdy-two.vercel.app/)<br><br> 📄 Know about my experiences [CV](https://flowcv.com/resume/srkw1oiilq)
+🌱 I’m currently a Software Engineering Student at MU with experience in Backend Development.<br><br>💬 Feel free to ask me about anything related to Node.js or Express.js.<br><br>📫 You can reach me at alshwwhy212@gmail.com<br><br>⚡ Fun fact: I have a passion for video games!<br><br> 📄 Know about my experiences [My Resume](https://flowcv.com/resume/srkw1oiilq)<br><br> 🎖️ [My Portfolio](https://magdy-two.vercel.app/)
 
 <p align="center">
   <a href="https://git.io/typing-svg">

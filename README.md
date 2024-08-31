@@ -67,6 +67,8 @@
   <img src="https://img.shields.io/badge/ESLint-%234B3263.svg?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
 </p>
 
+<img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedDr200&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />

@@ -17,7 +17,7 @@
   📫 Contact me via <a href="mailto:alshwwhy212@gmail.com">alshwwhy212@gmail.com</a><br>
   🎮 Fun Fact: I have a passion for video games!<br>
   📄 Explore my experiences: <a href="https://flowcv.com/resume/srkw1oiilq">My Resume</a><br>
-  🌟 Check out my work: <a href="https://magdy-two.vercel.app/">My Portfolio</a>
+  🌟 Check out my work: <a href="https://ahmed-magdy.vercel.app/">My Portfolio</a>
 </p>
 
 ## 🏆 GitHub Trophies

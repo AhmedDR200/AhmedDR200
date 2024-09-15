@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+%7C+Node.js+Expert;Software+Engineering+Graduate+from+MU;Passionate+About+Clean+Code+%26+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+%7C+Node.js+Expert;Building+Scalable+%26+Efficient+Systems;Software+Engineering+Graduate+%7C+Mansoura+University" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,13 +14,15 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="240px"/>
 
-- 🎓 **Software Engineering Graduate** from Mansoura University, specializing in backend development.
-- 🌱 Currently enhancing my expertise in **Node.js**, **Express.js**, and **scalable systems**.
-- 💼 Actively seeking **new opportunities** in backend engineering – view [**MY RESUME**](https://flowcv.com/resume/srkw1oiilq).
-- 📫 You can reach me at **alshwwhy212@gmail.com**.
-- 💬 Open to discussing **backend architecture**, **API design**, and **performance optimization**.
-- 📊 Check out my portfolio and projects: [**My Portfolio**](https://ahmed-magdy.vercel.app/).
-- 🎮 Fun Fact: I'm a huge fan of video games, especially those that challenge my problem-solving skills.
+- 🎓 **Software Engineering Graduate** from the Faculty of Computers & Information, **Mansoura University**, specializing in **backend development** and **cloud-based architectures**.
+- 🌱 Currently focused on mastering **Node.js**, **Express.js**, and building **high-performance, scalable systems**.
+- 🛠️ Proficient in **API development**, **database management** (MongoDB, PostgreSQL), and designing robust backend infrastructures.
+- 💼 Actively seeking challenging **backend engineering** roles – explore [**MY RESUME**](https://flowcv.com/resume/srkw1oiilq) for details on my experience and skillset.
+- 💬 Let's talk about **backend architecture**, **microservices**, **RESTful APIs**, or **performance optimization**.
+- 📫 Reach out to me at **alshwwhy212@gmail.com**.
+- 🌟 Discover my portfolio and latest projects: [**My Portfolio**](https://ahmed-magdy.vercel.app/).
+- 📈 I’m passionate about optimizing system performance and delivering **scalable solutions** that drive business success.
+- 🎮 In my free time, I enjoy playing strategy-based video games that challenge my problem-solving skills.
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhmedDr200&theme=dracula&no-frame=false&no-bg=true&margin-w=4)

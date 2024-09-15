@@ -10,6 +10,12 @@
   <img src="https://img.shields.io/github/followers/AhmedDR200?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="240px"/>
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> Professional Overview

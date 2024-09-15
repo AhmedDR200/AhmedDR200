@@ -12,7 +12,12 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="240px"/>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> Professional Overview
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap">
+</head>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> 
+<span style="font-family: 'Poppins', sans-serif; font-size: 24px; letter-spacing: 1px;">Professional Overview</span>
 
 - 🎓 **Software Engineering Graduate** from the Faculty of Computers & Information, **Mansoura University**, specializing in **backend development** and **cloud-based architectures**.
 - 🌱 Currently focused on mastering **Node.js**, **Express.js**, and building **high-performance, scalable systems**.

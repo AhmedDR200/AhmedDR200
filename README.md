@@ -2,9 +2,7 @@
 <h3 align="center">🚀 Backend Engineer | Node.js & Express.js Specialist</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+%7C+Node.js+Expert;Software+Engineering+Graduate+%7C+Mansoura+University" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+%7C+Node.js+Expert;Software+Engineering+Graduate+%7C+Mansoura+University" alt="Typing SVG" />
 </p>
 
 <p align="center">

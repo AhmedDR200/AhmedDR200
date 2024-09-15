@@ -1,24 +1,26 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AhmedDR200&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedDR200" />
-</p>
-
-<h1 align="center">Hello, I'm Ahmed Magdy 👋</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Magdy</h1>
 <h3 align="center">🚀 Backend Engineer | Node.js & Express.js Specialist</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Graduate+from+MU%3BBackend+Engineer+with+NodeJS%3B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Backend+Engineer+%7C+Node.js+Expert;Software+Engineering+Graduate+from+MU;Passionate+About+Clean+Code+%26+Scalable+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  🌱 Currently a Software Engineering Student at MU with extensive experience in Backend Development.<br>
-  💬 Feel free to ask me about anything related to Node.js, Express.js, or backend technologies.<br>
-  📫 Contact me via <a href="mailto:alshwwhy212@gmail.com">alshwwhy212@gmail.com</a><br>
-  🎮 Fun Fact: I have a passion for video games!<br>
-  📄 Explore my experiences: <a href="https://flowcv.com/resume/srkw1oiilq">My Resume</a><br>
-  🌟 Check out my work: <a href="https://ahmed-magdy.vercel.app/">My Portfolio</a>
+  <img src="https://komarev.com/ghpvc/?username=AhmedDR200&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AhmedDR200?label=Followers&style=social" alt="GitHub Followers" />
 </p>
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="240px"/>
+
+- 🎓 **Software Engineering Graduate** from Mansoura University, specializing in backend development.
+- 🌱 Currently enhancing my expertise in **Node.js**, **Express.js**, and **scalable systems**.
+- 💼 Actively seeking **new opportunities** in backend engineering – view [**MY RESUME**](https://flowcv.com/resume/srkw1oiilq).
+- 📫 You can reach me at **alshwwhy212@gmail.com**.
+- 💬 Open to discussing **backend architecture**, **API design**, and **performance optimization**.
+- 📊 Check out my portfolio and projects: [**My Portfolio**](https://ahmed-magdy.vercel.app/).
+- 🎮 Fun Fact: I'm a huge fan of video games, especially those that challenge my problem-solving skills.
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhmedDr200&theme=dracula&no-frame=false&no-bg=true&margin-w=4)

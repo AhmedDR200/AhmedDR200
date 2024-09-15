@@ -12,7 +12,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> Professional Overview
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> Professional Overview
 
 - 🎓 **Software Engineering Graduate** from the Faculty of Computers & Information, **Mansoura University**, specializing in **backend development** and **cloud-based architectures**.
 - 🌱 Currently focused on mastering **Node.js**, **Express.js**, and building **high-performance, scalable systems**.

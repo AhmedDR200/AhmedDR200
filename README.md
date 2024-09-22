@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Backend Engineer | Node.js & Express.js Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=4000&pause=1000&color=A020F0&center=false&vCenter=true&width=600&height=100&lines=Backend+Engineer+%7C+Node.js+Expert;SWE+Graduate+%7C+Mansoura+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&duration=4000&pause=1000&color=A020F0&center=true&vCenter=true&width=800&height=100&lines=Backend+Engineer+%7C+Node.js+Expert;SWE+Graduate+%7C+Mansoura+University" alt="Typing SVG" />
 </p>
 
 <p align="center">

@@ -81,6 +81,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <img src="https://media.giphy.com/media/xT9IgxZgMz8A0bI3qQ/giphy.gif" width="30" alt="Stats Icon" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedDr200&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDr200&theme=dracula&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDr200&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />

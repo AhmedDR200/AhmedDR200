@@ -19,7 +19,6 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> Professional Overview
 
-<p style="font-family: 'Poppins', sans-serif; font-size: 16px;">
 - 🎓 **Software Engineering Graduate** from the Faculty of Computers & Information, **Mansoura University**, specializing in **backend development** and **cloud-based architectures**.  
 - 🌱 Currently focused on mastering **Node.js**, **Express.js**, and building **high-performance, scalable systems**.  
 - 🛠️ Proficient in **API development**, **database management** (MongoDB, PostgreSQL), and designing robust backend infrastructures.  
@@ -29,11 +28,6 @@
 - 🌟 Discover my portfolio and latest projects: [**My Portfolio**](https://ahmed-magdy.vercel.app/).  
 - 📈 I’m passionate about optimizing system performance and delivering **scalable solutions** that drive business success.  
 - 🎮 In my free time, I enjoy playing strategy-based video games that challenge my problem-solving skills.
-</p>
-
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
-</style>
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhmedDr200&theme=dracula&no-frame=false&no-bg=true&margin-w=4)

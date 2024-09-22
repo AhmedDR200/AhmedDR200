@@ -50,28 +50,28 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="50" alt="Heroku" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="50" alt="Render" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" alt="Vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="50" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="NPM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="Postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="Prisma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="50" alt="Sequelize" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="50" alt="ESLint" />
+  <img src="https://api.iconify.design/logos/javascript.svg" height="50" alt="JavaScript" />
+  <img src="https://api.iconify.design/logos/typescript-icon.svg" height="50" alt="TypeScript" />
+  <img src="https://api.iconify.design/logos/python.svg" height="50" alt="Python" />
+  <img src="https://api.iconify.design/logos/html-5.svg" height="50" alt="HTML5" />
+  <img src="https://api.iconify.design/logos/css-3.svg" height="50" alt="CSS3" />
+  <img src="https://api.iconify.design/logos/heroku-icon.svg" height="50" alt="Heroku" />
+  <img src="https://api.iconify.design/logos/render.svg" height="50" alt="Render" />
+  <img src="https://api.iconify.design/logos/vercel-icon.svg" height="50" alt="Vercel" />
+  <img src="https://api.iconify.design/logos/github-icon.svg" height="50" alt="GitHub" />
+  <img src="https://api.iconify.design/logos/nodejs-icon.svg" height="50" alt="Node.js" />
+  <img src="https://api.iconify.design/logos/express.svg" height="50" alt="Express.js" />
+  <img src="https://api.iconify.design/logos/nestjs.svg" height="50" alt="NestJS" />
+  <img src="https://api.iconify.design/logos/npm-icon.svg" height="50" alt="NPM" />
+  <img src="https://api.iconify.design/logos/mongodb-icon.svg" height="50" alt="MongoDB" />
+  <img src="https://api.iconify.design/logos/sqlite.svg" height="50" alt="SQLite" />
+  <img src="https://api.iconify.design/logos/postgresql.svg" height="50" alt="Postgres" />
+  <img src="https://api.iconify.design/logos/prisma.svg" height="50" alt="Prisma" />
+  <img src="https://api.iconify.design/logos/sequelize.svg" height="50" alt="Sequelize" />
+  <img src="https://api.iconify.design/logos/git-icon.svg" height="50" alt="Git" />
+  <img src="https://api.iconify.design/logos/docker-icon.svg" height="50" alt="Docker" />
+  <img src="https://api.iconify.design/logos/postman-icon.svg" height="50" alt="Postman" />
+  <img src="https://api.iconify.design/logos/eslint.svg" height="50" alt="ESLint" />
 </p>
 
 

@@ -14,20 +14,20 @@
   <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png" alt="Github Banner" />
 </p>
 
----
-
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> Professional Overview
 
-- 🎓 **Software Engineering Graduate** from the Faculty of Computers & Information, **Mansoura University**, specializing in **backend development** and **cloud-based architectures**.  
-- 🌱 Currently focused on mastering **Node.js**, **Express.js**, and building **high-performance, scalable systems**.  
-- 🛠️ Proficient in **API development**, **database management** (MongoDB, PostgreSQL), and designing robust backend infrastructures.  
-- 💼 Actively seeking challenging **backend engineering** roles – explore [**MY RESUME**](https://flowcv.com/resume/srkw1oiilq) for details on my experience and skillset.  
-- 💬 Let's talk about **backend architecture**, **microservices**, **RESTful APIs**, or **performance optimization**.  
-- 📫 Reach out to me at **alshwwhy212@gmail.com**.  
-- 🌟 Discover my portfolio and latest projects: [**My Portfolio**](https://ahmed-magdy.vercel.app/).  
-- 📈 I’m passionate about optimizing system performance and delivering **scalable solutions** that drive business success.  
-- 🎮 In my free time, I enjoy playing strategy-based video games that challenge my problem-solving skills.
+- 🎓 **Software Engineering Graduate** from **Mansoura University**, with a focus on **backend development** and **cloud-based architectures**.
+- 🌱 Continuously honing my skills in **Node.js**, **Express.js**, and building **scalable, high-performance systems**.
+- 🛠️ Expertise in **API development**, **database management** (MongoDB, PostgreSQL), and designing robust **backend infrastructures**.
+- 💼 Open to exciting **backend engineering** opportunities. Check out [**MY RESUME**](https://flowcv.com/resume/srkw1oiilq) for more about my experience and skills.
+- 💬 I enjoy discussing topics around **backend architecture**, **microservices**, **RESTful APIs**, and **performance tuning**.
+- 📫 Contact me via email: **alshwwhy212@gmail.com**.
+- 🌟 Explore my portfolio for more about my work: [**My Portfolio**](https://ahmed-magdy.vercel.app/).
+- 📈 Passionate about driving business value through **optimized performance** and **scalable solutions**.
+- 🎮 In my downtime, I love diving into strategy games, sharpening my problem-solving skills.
+
+---
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhmedDr200&theme=dracula&no-frame=false&no-bg=true&margin-w=4)

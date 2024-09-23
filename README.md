@@ -85,13 +85,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedDR200&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDR200&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDR200&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDR200&theme=dracula&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;">
 </p>
-
-<!--Contribution Graph-->
-## 📈 Contribution Graph
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDR200&theme=dracula&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;">
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6

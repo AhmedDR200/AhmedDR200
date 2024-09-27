@@ -1,5 +1,8 @@
-<h1 align="center">Hello 👋, I'm Ahmed Magdy</h1>
-<h3 align="center">🚀 Backend Engineer | Node.js & Express.js Expert</h3>
+<!-- Main Header GIF -->
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+
+<h1 align="center">Hi 👋, I'm Ahmed Magdy</h1>
+<h2 align="center">🚀 Backend Engineer | Node.js & Express.js Specialist</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&duration=4000&pause=1000&color=14ACE8&center=true&vCenter=true&width=800&height=100&lines=Backend+Engineer+%7C+Node.js+Specialist;SWE+Graduate+%7C+Mansoura+University" alt="Typing SVG" />

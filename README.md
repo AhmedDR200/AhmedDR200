@@ -1,8 +1,5 @@
-<!-- Main Header GIF -->
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-
 <h1 align="center">Hi 👋, I'm Ahmed Magdy</h1>
-<h2 align="center">🚀 Backend Engineer | Node.js & Express.js Specialist</h2>
+<h3 align="center">🚀 Backend Engineer | Node.js & Express.js Specialist</h3>
 
 <!-- Typing SVG animation -->
 <p align="center">
@@ -16,9 +13,8 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png" alt="GitHub Banner" />
-</p>
+<!-- Main Header GIF -->
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
 ---
 

@@ -17,10 +17,13 @@
 
 ---
 
-<!-- Spotify Embed -->
+<!-- Spotify song -->
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5GDhHuLpmneh1DCMyKMJp3" width="300" height="380" frameBorder="0" allow="encrypted-media"></iframe>
+  <a href="https://open.spotify.com/track/5GDhHuLpmneh1DCMyKMJp3?si=b07fd3b69c014ac7" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20Now-%231DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify">
+  </a>
 </p>
+
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> Professional Overview
 

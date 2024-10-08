@@ -12,11 +12,15 @@
   <img src="https://img.shields.io/github/followers/AhmedDR200?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-
 <!-- Main Header GIF -->
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
 ---
+
+<!-- Spotify Embed -->
+<p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5GDhHuLpmneh1DCMyKMJp3" width="300" height="380" frameBorder="0" allow="encrypted-media"></iframe>
+</p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> Professional Overview
 

@@ -15,19 +15,6 @@
 <!-- Main Header GIF -->
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
----
-
-<!-- Spotify song with a quote -->
-<p align="center">
-  <blockquote>
-    <i>"And in the end, we lie awake and dream of making our escape..."</i>
-    <br>– <strong>! نفوخي شجرة عمرها 100 سنة</strong>
-  </blockquote>
-  <a href="https://open.spotify.com/track/5GDhHuLpmneh1DCMyKMJp3?si=b07fd3b69c014ac7" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Listen%20Now-%231DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify">
-  </a>
-</p>
-
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> Professional Overview
 
 🎓 **Software Engineering Graduate** from **Mansoura University**, with a focus on **backend development** and **cloud-based architectures**.  

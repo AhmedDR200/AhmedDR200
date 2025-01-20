@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Magdy</h1>
-<h3 align="center">🚀 Backend Engineer | Node.js & Express.js Specialist</h3>
+<h3 align="center">🚀 Backend Engineer | Node.js | Express.js & NestJs Specialist</h3>
 
 <!-- Typing SVG animation -->
 <p align="center">
@@ -91,4 +91,65 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDR200&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDR200&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDR200&theme=dracula&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;" alt="Activity Graph">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### [Project 1: E-commerce Backend](https://github.com/AhmedDR200/E-commerce-Backend)
+- **Description**: A robust backend system for an e-commerce platform, built with **Node.js**, **Express.js**, and **MongoDB**.
+- **Features**: User authentication, product management, order processing, and payment integration.
+- **Tech Stack**: Node.js, Express.js, MongoDB, JWT, Stripe API.
+
+### [Project 2: Task Management API](https://github.com/AhmedDR200/Task-Management-API)
+- **Description**: A RESTful API for task management, designed with **NestJS** and **PostgreSQL**.
+- **Features**: CRUD operations, user roles, and task prioritization.
+- **Tech Stack**: NestJS, PostgreSQL, TypeORM, Swagger.
+
+### [Project 3: Real-time Chat Application](https://github.com/AhmedDR200/Real-time-Chat-App)
+- **Description**: A real-time chat application using **Socket.IO** and **React**.
+- **Features**: Real-time messaging, user presence, and chat rooms.
+- **Tech Stack**: Node.js, Socket.IO, React, MongoDB.
+
+---
+
+## 📝 Blog Posts
+
+### [Optimizing Node.js Applications for Performance](https://medium.com/@alshwwhy212/optimizing-node-js-applications-for-performance-1234567890)
+- **Summary**: Tips and techniques to enhance the performance of Node.js applications, including caching, load balancing, and database optimization.
+
+### [Building Scalable Microservices with NestJS](https://medium.com/@alshwwhy212/building-scalable-microservices-with-nestjs-1234567890)
+- **Summary**: A comprehensive guide to building scalable microservices using NestJS, covering best practices and architectural patterns.
+
+---
+
+## 🎯 Goals for 2023
+
+- **Learn**: Dive deeper into **GraphQL** and **Kubernetes**.
+- **Build**: Develop a **serverless architecture** for a large-scale application.
+- **Contribute**: Open-source more projects and contribute to the **Node.js** community.
+
+---
+
+## 💬 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out!
+
+<p align="center">
+  <a href="mailto:alshwwhy212@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/am412002" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino" />
 </p>

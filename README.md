@@ -62,19 +62,17 @@ Currently open to backend engineering roles — my [resume](https://flowcv.com/r
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedDR200&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDR200&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165" />
-</p>
+<!--
+  github-readme-stats, github-profile-trophy and github-readme-activity-graph
+  are pulled from the maintainers' shared free Vercel deployments, which are
+  frequently rate-limited (503) or over their usage cap (402) under GitHub-wide
+  load. Re-add them once self-hosted on a personal Vercel project — see the
+  "Deploy to Vercel" button in each repo's README:
+    - https://github.com/anuraghazra/github-readme-stats
+    - https://github.com/ryo-ma/github-profile-trophy
+    - https://github.com/Ashutosh0710/github-readme-activity-graph
+-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AhmedDR200&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedDR200&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDR200&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>

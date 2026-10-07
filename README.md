@@ -27,7 +27,7 @@ ahmed@github ~ $ whoami
 - 📍 Egypt
 - 🏢 Freelance · Software Engineering, Mansoura University
 - 📫 [alshwwhy212@gmail.com](mailto:alshwwhy212@gmail.com)
-- 🔗 [ahmed-magdy.vercel.app](https://ahmed-magdy.vercel.app/)
+- 🔗 [magdy.digital](https://magdy.digital)
 - 📄 [Resume](https://flowcv.com/resume/srkw1oiilq)
 
 <img src="assets/stats.svg" alt="GitHub stats" width="100%"/>
@@ -44,6 +44,6 @@ ahmed@github ~ $ ./links.sh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353)](https://linkedin.com/in/am412002)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=39d353)](https://leetcode.com/AhmedDR200)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353)](https://ahmed-magdy.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353)](https://magdy.digital)
 
 </div>

@@ -6,7 +6,7 @@ on:
   workflow_dispatch:          # lets you run it manually from the Actions tab
   push:
     branches: [main]
-    paths: ["scripts/generate.py"]
+    paths: ["scripts/generate.py", "assets/portrait.txt"]
 
 permissions:
   contents: write
